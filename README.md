@@ -17,4 +17,4 @@
 
 为了确保用户的隐私安全，我们网站采用了HTTPS加密技术，保证你在观看影片时的信息不被泄露。我们也不收集任何个人信息，让你可以安心享受每一部影片，而不必担心隐私泄露问题。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw4 ）</span>
